@@ -37,7 +37,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    transition: background-color 0.3s, color 0.3s;
+    transition: background-color 0.7s, color 0.7s;
     font-size: 30px;
 }
 
@@ -135,7 +135,9 @@ tr:nth-child(odd) td {
     flex-direction: row;
     margin-bottom: 30px;
 }
-
+h3 {
+    font-size: 2em;
+}
 .text {
     max-width: 60%; 
     color:#000;
